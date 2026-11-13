@@ -1,13 +1,13 @@
 
 <!-- =====================================================
-     YATIN JANGRA | ANIMATED AI/ML DEVELOPER PROFILE
-     Midnight | Neon Blue | Cyan | Purple
+     YATIN JANGRA | PREMIUM ANIMATED AI/ML PROFILE
+     MIDNIGHT | NEON BLUE | CYAN | PURPLE
      No personal photos or coding GIFs
 ====================================================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:102A56,75:075985,100:050816&height=250&section=header&text=YATIN%20JANGRA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=ENGINEERING%20INTELLIGENCE%20%7C%20BUILDING%20TOMORROW&descSize=14&descAlignY=60&descColor=67E8F9" alt="Animated Yatin Jangra header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:102A56,75:075985,100:050816&height=250&section=header&text=YATIN%20JANGRA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=ENGINEERING%20INTELLIGENCE%20%7C%20BUILDING%20TOMORROW&descSize=14&descAlignY=60&descColor=67E8F9" alt="Yatin Jangra Header"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Yatin+Jangra+%F0%9F%91%8B;B.Tech+Artificial+Intelligence+%26+ML;Python+Developer+%F0%9F%90%8D;Exploring+Machine+Learning+%26+Generative+AI;Building+Intelligent+Applications+%F0%9F%A4%96;Always+Learning.+Always+Building." alt="Animated introduction"/>
 
@@ -46,6 +46,8 @@ I'm passionate about programming, intelligent systems, and building applications
 
 Currently, I'm developing my skills in Python, Machine Learning, Generative AI, Computer Vision and backend development.
 
+### A little about me
+
 - 🎓 B.Tech AI & ML — CGC Landran
 - 🐍 Primary language — Python
 - 🧠 Exploring — Machine Learning & Generative AI
@@ -77,7 +79,7 @@ Currently, I'm developing my skills in Python, Machine Learning, Generative AI, 
 
 <br/>
 
-<img src="https://img.shields.io/badge/MACHINE%20LEARNING-LEARNING-172554?style=for-the-badge&logoColor=white" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-LEARNING-172554?style=for-the-badge" alt="Machine Learning"/>
 <img src="https://img.shields.io/badge/GENERATIVE%20AI-EXPLORING-312E81?style=for-the-badge" alt="Generative AI"/>
 <img src="https://img.shields.io/badge/OCR-IMAGE%20PROCESSING-164E63?style=for-the-badge" alt="OCR"/>
 
@@ -177,15 +179,27 @@ My personal website showcasing my skills, projects and development journey.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=04+%2F+GITHUB+ACTIVITY;Every+contribution+is+progress." alt="GitHub activity heading"/>
 
-### MY CONTRIBUTION STREAK
+### MY GITHUB CONTRIBUTIONS
 
-<img src="https://streak-stats.demolab.com/?user=yatin341&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=94A3B8" width="90%" alt="GitHub streak"/>
+<br/>
+
+# 139
+
+### CONTRIBUTIONS IN THE LAST YEAR 🚀
+
+<br/>
+
+<img src="https://img.shields.io/badge/CONTRIBUTIONS-139-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="139 contributions"/>
 
 <br/><br/>
 
-### MY CONTRIBUTION GRAPH
+<a href="https://github.com/yatin341">
+<img src="https://img.shields.io/badge/VIEW%20MY%20GITHUB%20ACTIVITY-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View GitHub activity"/>
+</a>
 
-[View my GitHub contribution activity](https://github.com/yatin341)
+<br/><br/>
+
+*Every commit is a step forward. Every project is a new lesson.*
 
 </div>
 
@@ -193,9 +207,18 @@ My personal website showcasing my skills, projects and development journey.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=600&lines=05+%2F+THE+CONTRIBUTION+SNAKE;Watch+my+contributions+come+alive." alt="Contribution snake heading"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=600&lines=05+%2F+MY+DEVELOPMENT+JOURNEY;Learning+by+building." alt="Development journey heading"/>
 
-<img src="https://raw.githubusercontent.com/yatin341/yatin341/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+### MY CURRENT FOCUS
+
+| Area | Focus |
+|:---|:---|
+| Python | Improving programming skills |
+| DSA | Problem solving and algorithms |
+| Machine Learning | Learning ML fundamentals |
+| Generative AI | Exploring AI applications |
+| Computer Vision | OpenCV and OCR |
+| Backend | FastAPI, Flask and APIs |
 
 </div>
 
@@ -243,3 +266,5 @@ My personal website showcasing my skills, projects and development journey.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:102A56,75:075985,100:050816&height=150&section=footer&animation=twinkling" width="100%" alt="Animated footer"/>
 
 </div>
+
+<!-- END OF README -->
