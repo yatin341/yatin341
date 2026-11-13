@@ -1,38 +1,33 @@
 
-<!-- ========================================================
-     YATIN JANGRA | PREMIUM GITHUB PROFILE
-     Midnight Black | Silver | Electric Blue
-========================================================= -->
+<!-- =====================================================
+     YATIN JANGRA | ANIMATED AI/ML DEVELOPER PROFILE
+     Midnight | Neon Blue | Cyan | Purple
+====================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0B0D12&height=230&section=header&text=YATIN%20JANGRA&fontSize=55&fontColor=E8EDF5&fontAlignY=42&desc=ENGINEERING%20INTELLIGENCE.%20BUILDING%20TOMORROW.&descSize=13&descColor=63C5F2&descAlignY=65" width="100%" alt="Yatin Jangra"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:102A56,75:075985,100:050816&height=250&section=header&text=YATIN%20JANGRA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=ENGINEERING%20INTELLIGENCE%20%7C%20BUILDING%20TOMORROW&descSize=14&descAlignY=60&descColor=67E8F9" alt="Animated Yatin Jangra header"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Yatin+Jangra+%F0%9F%91%8B;B.Tech+Artificial+Intelligence+%26+ML;Python+Developer+%F0%9F%90%8D;Exploring+Machine+Learning+%26+Generative+AI;Building+Intelligent+Applications+%F0%9F%A4%96;Always+Learning.+Always+Building." alt="Animated introduction"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=400&size=17&duration=3000&pause=1200&color=63C5F2&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+%26+Machine+Learning;Python+Developer;Exploring+Generative+AI;Building+Intelligent+Applications" alt="Animated introduction"/>
-
-<br/><br/>
-
 <a href="https://yatinportfoli.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-161B22?style=for-the-badge&logo=googlechrome&logoColor=63C5F2" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/EXPLORE%20MY%20PORTFOLIO-0B1220?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/>
 </a>
-
 <a href="https://github.com/yatin341">
-<img src="https://img.shields.io/badge/GITHUB-Follow-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </a>
-
 <a href="https://www.instagram.com/yatin_j_/?hl=en">
-<img src="https://img.shields.io/badge/INSTAGRAM-Follow-161B22?style=for-the-badge&logo=instagram&logoColor=E8A0BF" alt="Instagram"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-0B1220?style=for-the-badge&logo=instagram&logoColor=E879F9" alt="Instagram"/>
 </a>
-
 <a href="mailto:yatinjangra97@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Contact-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email"/>
+<img src="https://img.shields.io/badge/CONTACT%20ME-0B1220?style=for-the-badge&logo=gmail&logoColor=F87171" alt="Email"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=yatin341&label=PROFILE+VIEWS&color=2563EB&style=flat-square" alt="Profile views"/>
+<img src="https://komarev.com/ghpvc/?username=yatin341&label=PROFILE+VISITORS&color=0891B2&style=for-the-badge" alt="Profile visitors"/>
 
 </div>
 
@@ -40,68 +35,36 @@
 
 <div align="center">
 
-# 01 / THE PERSON
-
-**AI & ML Student · Python Developer · Technology Enthusiast**
-
-*Curiosity drives innovation. Building turns ideas into reality.*
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=500&lines=01+%2F+ABOUT+ME;A+mindset+of+continuous+learning." alt="About me heading"/>
 
 </div>
 
-I'm **Yatin Jangra**, a B.Tech student specializing in Artificial Intelligence & Machine Learning at **CGC Landran**.
+Hey! I'm **Yatin Jangra**, a B.Tech student specializing in Artificial Intelligence & Machine Learning at **CGC Landran**.
 
-I am passionate about programming, intelligent systems, and developing applications that solve real-world problems.
+I'm passionate about programming, intelligent systems, and building applications that solve real-world problems.
 
-Currently, I'm strengthening my Python programming and problem-solving skills while exploring Machine Learning, Generative AI, computer vision, and backend development.
+Currently, I'm developing my skills in Python, Machine Learning, Generative AI, Computer Vision and backend development.
 
-```python
-class YatinJangra:
+<img align="right" width="270" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Animated coding illustration"/>
 
-    def __init__(self):
-        self.name = "Yatin Jangra"
-        self.education = "B.Tech AI & ML"
-        self.institution = "CGC Landran"
-        self.primary_language = "Python"
+- 🎓 B.Tech AI & ML — CGC Landran
+- 🐍 Primary language — Python
+- 🧠 Exploring — Machine Learning & Generative AI
+- 👁️ Interested in — Computer Vision and OCR
+- ⚙️ Building — AI-powered applications
+- 🚀 Goal — Become an AI/ML Engineer
 
-        self.interests = [
-            "Artificial Intelligence",
-            "Machine Learning",
-            "Generative AI",
-            "Computer Vision",
-            "Software Development"
-        ]
-
-        self.goal = "AI/ML Engineer"
-        self.mindset = "Learn. Build. Improve."
-
-    def introduce(self):
-        return "Engineering Intelligence. Building Tomorrow."
-
-
-developer = YatinJangra()
-print(developer.introduce())
-```
-
-### Currently Focusing On
-
-- Python programming and problem-solving.
-- Machine Learning and Deep Learning fundamentals.
-- Generative AI and LLMs.
-- Computer Vision and OCR.
-- Backend development and API integration.
-- Building practical AI-powered applications.
+<br clear="right"/>
 
 ---
 
 <div align="center">
 
-# 02 / TECHNOLOGY STACK
-
-*Tools and technologies I use to build and experiment.*
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=02+%2F+MY+TECHNOLOGY+UNIVERSE;Tools+that+turn+ideas+into+reality." alt="Technology heading"/>
 
 </div>
 
-### Programming Language
+### Programming
 
 <div align="center">
 
@@ -109,21 +72,21 @@ print(developer.introduce())
 
 </div>
 
-### Artificial Intelligence & Machine Learning
+### AI / ML and Computer Vision
 
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="PyTorch and OpenCV"/>
 
-<br/><br/>
+<br/>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-Exploring-1E40AF?style=flat-square" alt="Machine Learning"/>
-<img src="https://img.shields.io/badge/Generative%20AI-Learning-6D28D9?style=flat-square" alt="Generative AI"/>
-<img src="https://img.shields.io/badge/OCR-Image%20Processing-0369A1?style=flat-square" alt="OCR"/>
+<img src="https://img.shields.io/badge/MACHINE%20LEARNING-LEARNING-172554?style=for-the-badge&logoColor=white" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/GENERATIVE%20AI-EXPLORING-312E81?style=for-the-badge" alt="Generative AI"/>
+<img src="https://img.shields.io/badge/OCR-IMAGE%20PROCESSING-164E63?style=for-the-badge" alt="OCR"/>
 
 </div>
 
-### Backend & API Development
+### Backend and API Development
 
 <div align="center">
 
@@ -131,24 +94,16 @@ print(developer.introduce())
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/REST%20APIs-Integration-0F766E?style=flat-square" alt="REST APIs"/>
-<img src="https://img.shields.io/badge/Groq%20API-AI%20Integration-9A3412?style=flat-square" alt="Groq API"/>
+<img src="https://img.shields.io/badge/REST%20API-INTEGRATION-134E4A?style=for-the-badge" alt="REST API"/>
+<img src="https://img.shields.io/badge/GROQ%20API-AI%20INTEGRATION-581C87?style=for-the-badge" alt="Groq API"/>
 
 </div>
 
-### Databases
+### Databases and Tools
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark" alt="MySQL and SQLite"/>
-
-</div>
-
-### Developer Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Git GitHub and VS Code"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode&theme=dark" alt="MySQL SQLite Git GitHub and VS Code"/>
 
 </div>
 
@@ -156,93 +111,65 @@ print(developer.introduce())
 
 <div align="center">
 
-# 03 / SELECTED PROJECTS
-
-*Ideas transformed into working applications.*
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=03+%2F+FEATURED+PROJECTS;Building+things+that+matter." alt="Projects heading"/>
 
 </div>
 
-### 01 — JARVIS / NOVA AI
+### 🤖 01 — JARVIS / NOVA AI
 
 **Personal AI Voice Assistant**
 
-An intelligent voice assistant designed to interact through voice, understand user commands and provide AI-powered responses.
+An intelligent voice assistant designed to understand voice commands and provide AI-powered responses.
 
-- Voice-based interaction.
-- AI conversation integration.
+- Voice interaction and wake-word detection.
+- AI-powered conversations.
 - Text-to-speech functionality.
-- Personal assistant experience.
+- Personal assistant interface.
 
-`PYTHON` `FASTAPI` `GROQ API` `VOICE RECOGNITION` `TTS`
+`PYTHON` `FASTAPI` `GROQ API` `VOICE AI`
 
 ---
 
-### 02 — CIVICLOOP
+### 🏛️ 02 — CIVICLOOP
 
 **AI-Powered Public Services Assistant**
 
-A digital public services assistant designed to help people discover government schemes, understand services and access useful information.
+A digital public services assistant designed to help users discover government schemes and access useful public information.
 
 - AI-based service discovery.
-- Public service information.
+- Government service information.
 - Document validation.
 - Application assistance.
 
-`PYTHON` `FLASK` `MYSQL` `REST APIs` `AI`
+`PYTHON` `FLASK` `MYSQL` `REST API`
 
 ---
 
-### 03 — PACKAGED COMMODITY COMPLIANCE
+### 🔍 03 — PACKAGED COMMODITY COMPLIANCE
 
-**AI-Based Product Compliance System**
+**OCR-Based Compliance Solution**
 
-An AI-powered solution concept for analyzing packaged commodity labels using OCR and image processing.
+A project concept focused on analyzing packaged commodity labels using OCR and image processing.
 
 - Product label text extraction.
 - OCR-based analysis.
 - Product information validation.
 - Automated compliance checking concept.
 
-`PYTHON` `OPENCV` `OCR` `MACHINE LEARNING`
+`PYTHON` `OPENCV` `OCR`
 
 ---
 
-### 04 — PERSONAL PORTFOLIO
+### 🌐 04 — PERSONAL PORTFOLIO
 
 **My Developer Space**
 
-A personal portfolio showcasing my projects, technical skills and development journey.
-
-<a href="https://yatinportfoli.netlify.app/">
-<img src="https://img.shields.io/badge/VIEW%20MY%20PORTFOLIO-Visit%20Website-161B22?style=for-the-badge&logo=googlechrome&logoColor=63C5F2" alt="Visit portfolio"/>
-</a>
-
-`JAVASCRIPT` `WEB DEVELOPMENT`
-
----
+My personal website showcasing my skills, projects and development journey.
 
 <div align="center">
 
-# 04 / GITHUB ANALYTICS
-
-*Consistency, contributions and continuous improvement.*
-
-<br/>
-
-### CONTRIBUTION STREAK
-
-<img src="https://streak-stats.demolab.com/?user=yatin341&theme=transparent&hide_border=true&background=0D1117&ring=63C5F2&fire=63C5F2&currStreakLabel=63C5F2&sideLabels=E8EDF5&dates=9CA3AF" width="85%" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-### CONTRIBUTION ACTIVITY
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yatin341&bg_color=0D1117&color=63C5F2&line=3B82F6&point=E8EDF5&area=true&hide_border=true" width="100%" alt="GitHub contribution activity"/>
-
-<br/><br/>
-
-<a href="https://github.com/yatin341?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE%20MY%20REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=63C5F2" alt="Explore repositories"/>
+<a href="https://yatinportfoli.netlify.app/">
+<img src="https://img.shields.io/badge/OPEN%20MY%20PORTFOLIO-Visit%20Website-075985?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Open portfolio"/>
 </a>
 
 </div>
@@ -251,52 +178,74 @@ A personal portfolio showcasing my projects, technical skills and development jo
 
 <div align="center">
 
-# 05 / THE MINDSET
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=04+%2F+GITHUB+ACTIVITY;Every+contribution+is+progress." alt="GitHub activity heading"/>
+
+### MY CONTRIBUTION STREAK
+
+<img src="https://streak-stats.demolab.com/?user=yatin341&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=94A3B8" width="90%" alt="GitHub streak"/>
+
+<br/><br/>
+
+### MY CONTRIBUTION GRAPH
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yatin341&bg_color=0D1117&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true&custom_title=Yatin's%20Contribution%20Journey" width="100%" alt="Contribution activity graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=600&lines=05+%2F+THE+CONTRIBUTION+SNAKE;Watch+my+contributions+come+alive." alt="Contribution snake heading"/>
+
+<img src="https://raw.githubusercontent.com/yatin341/yatin341/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=550&lines=06+%2F+MY+MINDSET;Learn.+Build.+Innovate." alt="Mindset heading"/>
+
+<br/>
 
 ### LEARN WITH CURIOSITY.
+
 ### BUILD WITH PURPOSE.
+
 ### INNOVATE WITH INTELLIGENCE.
 
 <br/>
 
-*"The future belongs to those who build it."*
-
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=1200&color=63C5F2&center=true&vCenter=true&width=500&lines=Dream+Big.;Keep+Learning.;Keep+Building.;Keep+Innovating." alt="Closing animation"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=18&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Dream+Big.;Stay+Consistent.;Keep+Experimenting.;Never+Stop+Learning." alt="Motivational animation"/>
 
 <br/><br/>
 
 # LET'S CONNECT
 
 <a href="https://yatinportfoli.netlify.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-Visit-161B22?style=for-the-badge&logo=googlechrome&logoColor=63C5F2" alt="Portfolio"/>
+<img src="https://img.shields.io/badge/PORTFOLIO-0B1220?style=for-the-badge&logo=googlechrome&logoColor=38BDF8" alt="Portfolio"/>
 </a>
-
 <a href="https://github.com/yatin341">
-<img src="https://img.shields.io/badge/GITHUB-Follow-161B22?style=for-the-badge&logo=github" alt="GitHub"/>
+<img src="https://img.shields.io/badge/GITHUB-0B1220?style=for-the-badge&logo=github&logoColor=FFFFFF" alt="GitHub"/>
 </a>
-
 <a href="https://www.instagram.com/yatin_j_/?hl=en">
-<img src="https://img.shields.io/badge/INSTAGRAM-Follow-161B22?style=for-the-badge&logo=instagram" alt="Instagram"/>
+<img src="https://img.shields.io/badge/INSTAGRAM-0B1220?style=for-the-badge&logo=instagram&logoColor=E879F9" alt="Instagram"/>
 </a>
-
 <a href="mailto:yatinjangra97@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-Contact-161B22?style=for-the-badge&logo=gmail" alt="Gmail"/>
+<img src="https://img.shields.io/badge/EMAIL-0B1220?style=for-the-badge&logo=gmail&logoColor=F87171" alt="Email"/>
 </a>
-
 <a href="YOUR_LINKEDIN_PROFILE_URL">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-161B22?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/LINKEDIN-0B1220?style=for-the-badge&logo=linkedin&logoColor=38BDF8" alt="LinkedIn"/>
 </a>
 
 <br/><br/>
 
-**YATIN JANGRA · AI & MACHINE LEARNING**
+**YATIN JANGRA**
 
 *Engineering Intelligence. Building Tomorrow.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,50:101B3D,100:0B0D12&height=110&section=footer" width="100%" alt="Footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:102A56,75:075985,100:050816&height=150&section=footer&animation=twinkling" width="100%" alt="Animated footer"/>
 
 </div>
-
-<!-- END OF README -->
