@@ -36,7 +36,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=500&lines=01+%2F+ABOUT+ME;A+mindset+of+continuous+learning." alt="About me heading"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=500&lines=01+%2F+ABOUT+ME;A+mindset+of+continuous+learning" alt="About me heading"/>
 
 </div>
 
@@ -59,7 +59,7 @@ Currently, I'm developing my skills in Python, Machine Learning, Generative AI, 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=02+%2F+MY+TECHNOLOGY+UNIVERSE;Tools+that+turn+ideas+into+reality." alt="Technology heading"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=02+%2F+MY+TECHNOLOGY+UNIVERSE;Tools+that+turn+ideas+into+reality" alt="Technology heading"/>
 
 </div>
 
@@ -110,26 +110,44 @@ Currently, I'm developing my skills in Python, Machine Learning, Generative AI, 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=03+%2F+FEATURED+PROJECTS;Building+things+that+matter." alt="Projects heading"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=03+%2F+FEATURED+PROJECTS;Building+things+that+matter" alt="Projects heading"/>
 
 </div>
 
-### 🤖 01 — JARVIS / NOVA AI
+### 🤖 01 — JARVIS AI
 
-**Personal AI Voice Assistant**
+**Personal Voice Assistant**
 
-An intelligent voice assistant designed to understand voice commands and provide AI-powered responses.
+An intelligent personal voice assistant designed to interact through voice commands and provide AI-powered responses.
 
-- Voice interaction and wake-word detection.
-- AI-powered conversations.
-- Text-to-speech functionality.
-- Personal assistant interface.
+- Wake-word detection and voice activation.
+- Speech recognition and voice commands.
+- AI-powered conversations using Groq.
+- Natural text-to-speech responses using ElevenLabs.
+- Voice assistant interface and command handling.
 
-`PYTHON` `FASTAPI` `GROQ API` `VOICE AI`
+`PYTHON` `GROQ API` `ELEVENLABS` `SPEECH RECOGNITION` `VOICE AI`
 
 ---
 
-### 🏛️ 02 — CIVICLOOP
+### 🧠 02 — NOVA AI
+
+**Multimodal AI Assistant**
+
+A separate AI assistant project focused on bringing multiple generative AI capabilities into one intelligent application.
+
+- AI-powered conversational assistant.
+- Image generation and editing integrations.
+- Video generation and editing integrations.
+- AI music generation experiments.
+- FastAPI-based backend.
+- Integration with Groq and other AI services.
+
+`PYTHON` `FASTAPI` `GROQ API` `GENERATIVE AI` `IMAGE AI` `MUSIC AI`
+
+---
+
+### 🏛️ 03 — CIVICLOOP
 
 **AI-Powered Public Services Assistant**
 
@@ -139,23 +157,9 @@ A digital public services assistant designed to help users discover government s
 - Government service information.
 - Document validation.
 - Application assistance.
+- Public service information support.
 
-`PYTHON` `FLASK` `MYSQL` `REST API`
-
----
-
-### 🔍 03 — PACKAGED COMMODITY COMPLIANCE
-
-**OCR-Based Compliance Solution**
-
-A project concept focused on analyzing packaged commodity labels using OCR and image processing.
-
-- Product label text extraction.
-- OCR-based analysis.
-- Product information validation.
-- Automated compliance checking concept.
-
-`PYTHON` `OPENCV` `OCR`
+`PYTHON` `FLASK` `MYSQL` `REST API` `AI`
 
 ---
 
@@ -177,15 +181,13 @@ My personal website showcasing my skills, projects and development journey.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=04+%2F+GITHUB+ACTIVITY;Every+contribution+is+progress." alt="GitHub activity heading"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=04+%2F+GITHUB+ACTIVITY;Every+contribution+is+progress" alt="GitHub activity heading"/>
 
 <br/>
 
 ### MY CONTRIBUTION STREAK
 
 <img src="https://streak-stats.demolab.com?user=yatin341&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=94A3B8" width="90%" alt="Yatin GitHub contribution streak"/>
-
-<br/><br/>
 
 <br/><br/>
 
@@ -199,7 +201,7 @@ My personal website showcasing my skills, projects and development journey.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=600&lines=05+%2F+THE+CONTRIBUTION+SNAKE;Watch+my+contributions+come+alive." alt="Contribution snake heading"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=600&lines=05+%2F+THE+CONTRIBUTION+SNAKE;Watch+my+contributions+come+alive" alt="Contribution snake heading"/>
 
 <br/>
 
@@ -211,7 +213,7 @@ My personal website showcasing my skills, projects and development journey.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=550&lines=06+%2F+MY+DEVELOPMENT+JOURNEY;Learning+by+building." alt="Development journey heading"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=550&lines=06+%2F+MY+DEVELOPMENT+JOURNEY;Learning+by+building" alt="Development journey heading"/>
 
 </div>
 
@@ -230,7 +232,7 @@ My personal website showcasing my skills, projects and development journey.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=550&lines=07+%2F+MY+MINDSET;Learn.+Build.+Innovate." alt="Mindset heading"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=550&lines=07+%2F+MY+MINDSET;Learn.+Build.+Innovate" alt="Mindset heading"/>
 
 <br/>
 
