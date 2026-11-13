@@ -3,7 +3,7 @@
 
 # 👋 Hey, I'm Yatin Jangra
 
-### B.Tech AI & ML Student | Python Developer | Aspiring AI Engineer
+### B.Tech AI & ML Student | Python Developer | Aspiring AI/ML Engineer
 
 *Building, Learning & Exploring the World of Artificial Intelligence.*
 
@@ -18,32 +18,43 @@
 👋 Hi! I'm **Yatin Jangra**, a B.Tech student specializing in Artificial Intelligence & Machine Learning at **CGC Landran**.
 
 - 🎓 Currently pursuing B.Tech in AI & ML.
-- 🐍 Learning and developing with Python.
+- 🐍 Focused on Python Programming.
 - 🧠 Exploring Machine Learning and Generative AI.
-- 💻 Practicing Data Structures & Algorithms.
-- 🤖 Building personal AI projects and applications.
+- 👨‍💻 Practicing Data Structures & Algorithms.
+- 🤖 Building AI-powered applications and personal projects.
 - 🏆 Interested in hackathons and collaborative development.
 - 🎯 Goal: Become a skilled AI/ML Engineer.
 
 ---
 
-## ⚡ Tech Stack & Tools
+## ⚡ Skills & Tech Stack
 
 <div align="center">
 
-### Programming Languages
+### 💻 Programming Language
 
-<img src="https://skillicons.dev/icons?i=python,js" />
+<img src="https://skillicons.dev/icons?i=python" />
 
-### Frameworks & Technologies
+### 🧠 AI & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=flask,fastapi,react,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=pytorch,opencv" />
 
-### AI & Machine Learning
-
-<img src="https://img.shields.io/badge/Machine%20Learning-Exploring-blue?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Generative%20AI-Learning-purple?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-Development-yellow?style=for-the-badge&logo=python" />
+<img src="https://img.shields.io/badge/OCR-Image%20Processing-blue?style=for-the-badge" />
+
+### ⚙️ Frameworks & Backend Development
+
+<img src="https://skillicons.dev/icons?i=fastapi,flask" />
+
+<img src="https://img.shields.io/badge/REST%20API-Integration-green?style=for-the-badge&logo=fastapi" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,sqlite" />
+
+### 🛠️ Tools & Development
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
@@ -52,24 +63,24 @@
 ## 🚀 Featured Projects
 
 ### 🤖 Jarvis / Nova AI
-Personal AI voice assistant with intelligent responses and voice interaction.
+Personal AI voice assistant with intelligent responses, voice interaction and AI integrations.
 
-**Technologies:** Python, FastAPI, AI, Voice Recognition
+**Technologies:** Python, FastAPI, Groq API, Voice Recognition, Text-to-Speech
 
 ### 🌐 CivicLoop
-AI-powered public services assistant designed to help users discover government services.
+AI-powered public services assistant designed to help users discover government services and access public information.
 
-**Technologies:** Python, Flask, MySQL, AI
+**Technologies:** Python, Flask, MySQL, REST APIs, AI
 
 ### 🏷️ Packaged Commodity Compliance
 AI-based packaged commodity compliance solution using image processing and OCR.
 
-**Technologies:** Python, OCR, OpenCV, Machine Learning
+**Technologies:** Python, OpenCV, OCR, Machine Learning
 
 ### 💼 Personal Portfolio
-A personal portfolio website showcasing my skills, projects and development journey.
+Personal developer portfolio showcasing my skills, projects and learning journey.
 
-**Technologies:** JavaScript, Web Technologies
+**Technologies:** JavaScript, GitHub, Web Technologies
 
 ---
 
@@ -89,7 +100,7 @@ A personal portfolio website showcasing my skills, projects and development jour
 
 ---
 
-## 🏆 GitHub Contribution Graph
+## 🏆 Contribution Graph
 
 <div align="center">
 
@@ -103,12 +114,16 @@ A personal portfolio website showcasing my skills, projects and development jour
 
 <div align="center">
 
-<a href="https://github.com/yatin341">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
+<a href="https://www.linkedin.com/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
 </a>
 
-<a href="YOUR_LINKEDIN_PROFILE_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+<a href="https://www.instagram.com/yatin_j_/?hl=en" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
+<a href="mailto:yatinjangra97@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 </div>
