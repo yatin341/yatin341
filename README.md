@@ -7,7 +7,7 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:102A56,75:075985,100:050816&height=250&section=header&text=YATIN%20JANGRA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=ENGINEERING%20INTELLIGENCE%20%7C%20BUILDING%20TOMORROW&descSize=14&descAlignY=60&descColor=67E8F9" alt="Yatin Jangra Header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,40:102A56,75:075985,100:050816&height=250&section=header&text=YATIN%20JANGRA&fontSize=58&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&desc=ENGINEERING%20INTELLIGENCE%20%7C%20BUILDING%20TOMORROW&descSize=14&descAlignY=60&descColor=67E8F9" alt="Animated Yatin Jangra header"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=900&color=38BDF8&center=true&vCenter=true&width=750&lines=Hello%2C+I'm+Yatin+Jangra+%F0%9F%91%8B;B.Tech+Artificial+Intelligence+%26+ML;Python+Developer+%F0%9F%90%8D;Exploring+Machine+Learning+%26+Generative+AI;Building+Intelligent+Applications+%F0%9F%A4%96;Always+Learning.+Always+Building." alt="Animated introduction"/>
 
@@ -49,7 +49,7 @@ Currently, I'm developing my skills in Python, Machine Learning, Generative AI, 
 ### A little about me
 
 - 🎓 B.Tech AI & ML — CGC Landran
-- 🐍 Primary language — Python
+- 🐍 Primary programming language — Python
 - 🧠 Exploring — Machine Learning & Generative AI
 - 👁️ Interested in — Computer Vision and OCR
 - ⚙️ Building — AI-powered applications
@@ -77,7 +77,7 @@ Currently, I'm developing my skills in Python, Machine Learning, Generative AI, 
 
 <img src="https://skillicons.dev/icons?i=pytorch,opencv&theme=dark" alt="PyTorch and OpenCV"/>
 
-<br/>
+<br/><br/>
 
 <img src="https://img.shields.io/badge/MACHINE%20LEARNING-LEARNING-172554?style=for-the-badge" alt="Machine Learning"/>
 <img src="https://img.shields.io/badge/GENERATIVE%20AI-EXPLORING-312E81?style=for-the-badge" alt="Generative AI"/>
@@ -102,7 +102,7 @@ Currently, I'm developing my skills in Python, Machine Learning, Generative AI, 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode&theme=dark" alt="MySQL SQLite Git GitHub and VS Code"/>
+<img src="https://skillicons.dev/icons?i=mysql,sqlite,git,github,vscode&theme=dark" alt="MySQL SQLite Git GitHub VS Code"/>
 
 </div>
 
@@ -179,27 +179,23 @@ My personal website showcasing my skills, projects and development journey.
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=550&lines=04+%2F+GITHUB+ACTIVITY;Every+contribution+is+progress." alt="GitHub activity heading"/>
 
-### MY GITHUB CONTRIBUTIONS
-
 <br/>
 
-# 139
+### MY CONTRIBUTION STREAK
 
-### CONTRIBUTIONS IN THE LAST YEAR 🚀
+<img src="https://streak-stats.demolab.com?user=yatin341&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=A78BFA&currStreakLabel=38BDF8&sideLabels=FFFFFF&dates=94A3B8" width="90%" alt="Yatin GitHub contribution streak"/>
 
-<br/>
+<br/><br/>
 
-<img src="https://img.shields.io/badge/CONTRIBUTIONS-139-16A34A?style=for-the-badge&logo=github&logoColor=white" alt="139 contributions"/>
+### MY CONTRIBUTION GRAPH
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yatin341&bg_color=0D1117&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true&custom_title=Yatin's%20Contribution%20Activity" width="100%" alt="Yatin contribution activity graph"/>
 
 <br/><br/>
 
 <a href="https://github.com/yatin341">
-<img src="https://img.shields.io/badge/VIEW%20MY%20GITHUB%20ACTIVITY-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View GitHub activity"/>
+<img src="https://img.shields.io/badge/VIEW%20ALL%20CONTRIBUTIONS-0B1220?style=for-the-badge&logo=github&logoColor=38BDF8" alt="View GitHub contributions"/>
 </a>
-
-<br/><br/>
-
-*Every commit is a step forward. Every project is a new lesson.*
 
 </div>
 
@@ -207,7 +203,21 @@ My personal website showcasing my skills, projects and development journey.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=600&lines=05+%2F+MY+DEVELOPMENT+JOURNEY;Learning+by+building." alt="Development journey heading"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=67E8F9&center=true&vCenter=true&width=600&lines=05+%2F+THE+CONTRIBUTION+SNAKE;Watch+my+contributions+come+alive." alt="Contribution snake heading"/>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/yatin341/yatin341/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=550&lines=06+%2F+MY+DEVELOPMENT+JOURNEY;Learning+by+building." alt="Development journey heading"/>
+
+</div>
 
 ### MY CURRENT FOCUS
 
@@ -220,13 +230,11 @@ My personal website showcasing my skills, projects and development journey.
 | Computer Vision | OpenCV and OCR |
 | Backend | FastAPI, Flask and APIs |
 
-</div>
-
 ---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=550&lines=06+%2F+MY+MINDSET;Learn.+Build.+Innovate." alt="Mindset heading"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=550&lines=07+%2F+MY+MINDSET;Learn.+Build.+Innovate." alt="Mindset heading"/>
 
 <br/>
 
