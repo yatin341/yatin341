@@ -187,10 +187,6 @@ My personal website showcasing my skills, projects and development journey.
 
 <br/><br/>
 
-### MY CONTRIBUTION GRAPH
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yatin341&bg_color=0D1117&color=38BDF8&line=818CF8&point=FFFFFF&area=true&hide_border=true&custom_title=Yatin's%20Contribution%20Activity" width="100%" alt="Yatin contribution activity graph"/>
-
 <br/><br/>
 
 <a href="https://github.com/yatin341">
